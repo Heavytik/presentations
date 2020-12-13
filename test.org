@@ -1,0 +1,61 @@
+#+TITLE: Yhtälöpari
+#+AUTHOR: Jere Tofferi
+#+OPTIONS: toc:nil num:nil
+#+REVEAL_THEME: modified_simple
+#+REVEAL_TRANS: slide
+
+* Yleistä aiheesta
+** Kahden muuttujan yhtälöt
+   #+ATTR_REVEAL: :frag (appear)
+   - Kahden muuttujan yhtälössä muuttujakirjaimia on kaksi
+   - Yleensä käytetään kirjaimia x ja y
+   - Tällaiset ovat tuttuja jo funktioista
+
+** Kahden muuttujan yhtälön ratkaisu     
+   #+ATTR_REVEAL: :frag (appear)
+   - Kahden muuttujan yhtälössä muuttujakirjaimia on kaksi
+   - Ratkaisuna täytyy etsiä arvot muuttujille, siten että yhtälö on tosi
+   - Lasketaan yhtälöparille x + y = 10 mahdollisia ratkaisuja
+
+** Tehtävät tunnilla
+   sivulta 23 tehtävät 1, 2, 3 ja 6
+
+** Kotitehtävät
+   sivulta 203 tehtävät 1 ja 2
+
+* Yhtälöpari
+** Yhtälöparin idea
+   #+ATTR_REVEAL: :frag (appear)
+   - Kahden muuttujan yhtälössä muuttujakirjaimia on kaksi
+   - Kaksi eri yhtälö liitetään yhteen
+   - Niille täytyy löytää muuttujat, jotka sopivat molempiin yhtälöihin
+
+** Ratkaisun testaaminen
+   #+ATTR_REVEAL: :frag (appear)
+   - Kahden muuttujan yhtälössä muuttujakirjaimia on kaksi
+   - Voimme testata sopiiko annettu ratkaisu yhtälöpariin
+   - Sijoitetaan luvut muuttujien paikalle ja katsotaan ovatko yhtälöt tosia
+     
+** Tehtävät tunnilla
+   sivulta 25 tehtävät 1 - 6
+
+** Kotitehtävät
+   sivulta 203 tehtävät 21 ja 22
+
+* Yhtälöparin graafinen ratkaisu
+** Yhtälöiden piirtäminen koordinaatistoon
+   #+ATTR_REVEAL: :frag (appear)
+   - Kahden muuttujan yhtälössä muuttujakirjaimia on kaksi
+   - Voimme piirtää kahden muuttujan yhtälön koordinaatistoon
+   - Tärkeää on ensin muutta yhtälö muotoon y = ?x + ?
+     (kysymysmerkkine kohdalle tulee luvut, esim. y = 2x + 3)
+     
+** Ratkaisun päättely
+   #+ATTR_REVEAL: :frag (appear)
+   - Kahden muuttujan yhtälössä muuttujakirjaimia on kaksi
+   - Yhtälön kuvaaja (viiva) kertoo sen ratkaisut
+   - Kohta jossa viivat osuvat yhteen, sopii ratkaisuksi molempiin yhtälöihin
+   - Leikkauskohta (tai kohdat) on siten yhtälöparin ratkaisu 
+
+* Yhtälöparin ratkaiseminen algebrallisesti
+  ...
